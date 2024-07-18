@@ -19,15 +19,21 @@ VitePress 模板
 
 ## 安装 📦
 
-TODO
+```shell
+docker pull ghcr.io/caobaoqi1029/vite-press-template:1.0.1
+docker run -itd --name vite-press-docs -p 80:80 vite-press-template:1.0.1
+```
+
+>[!NOTE]
+> 版本号参见：https://github.com/caobaoqi1029/Vite-Press-Template/pkgs/container/vite-press-template
 
 ## 配置 🛠
 
-TODO
+暂无
 
 ## 更新日志 📅
 
-TODO
+Here : https://github.com/caobaoqi1029/Vite-Press-Template/blob/main/docs/CHANGELOG.md
 
 ## 贡献 🤝
 

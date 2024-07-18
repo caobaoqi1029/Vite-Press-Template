@@ -1,3 +1,10 @@
+## V1.0.2 <Badge type="tip" text="^1.0.2" />
+
+- fix(docker): nginx path error
+
+## V1.0.1 <Badge type="tip" text="^1.0.1" />
+
+- fix(yarn): build error
 
 ## V1.0.0 <Badge type="tip" text="^1.0.0" />
 
