@@ -166,7 +166,7 @@ node 的安装推荐使用 nvm 进行安装，nvm 是一款 node 的管理工具
 
 > [!TIP]
 >
-> tag 操作可参见 [在 IDEA 中使用 Git](../dev-tools/git/git-02.md#tag-发布)
+> tag 操作可参见 [项目说明](# 四、项目说明)
 
 ### 5.1 部署到 github pages
 
